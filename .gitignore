@@ -1,2 +1,9 @@
-data/raw/
+data/
+
 .DS_Store
+.venv/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
